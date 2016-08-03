@@ -14,3 +14,10 @@ create branch dev2 -- will a bug?
 
 
 fix the no.101 bug, ok
+working on dev but a bug is coming
+
+
+
+llalalall, work along with branch dev again,
+so whatever, wtf.
+go on.
