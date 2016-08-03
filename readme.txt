@@ -10,3 +10,7 @@ create nofastforward branch!
 
 create branch do not know--wait bug
 create branch dev2 -- will a bug?
+
+
+
+fix the no.101 bug, ok
